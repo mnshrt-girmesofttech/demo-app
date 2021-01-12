@@ -1,0 +1,18 @@
+.form-container{
+    display:flex;
+    justify-content:center;
+    align-items:space-between;
+    flex-direction:column;
+    padding:10px;
+    width:60%;
+
+    .outlined-basic{
+        padding:10px;
+    }
+
+    .outlined-basic.fitness-req{
+        width:50%;
+        margin-left:10px;
+        height:60px;
+    }
+}
